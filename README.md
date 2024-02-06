@@ -19,7 +19,7 @@ Must run cmd on bin folder of jmeter
 
 ![Load-test-report](https://github.com/rezaul525/Random-User-API-Performance-Test/assets/59533863/d35e2d2b-0284-45de-887b-d29cdd905adf)
 
-# Stress Test Report
+# Stress Test Report and Lower Bottleneck
 
 ![Stress Report-1](https://github.com/rezaul525/Random-User-API-Performance-Test/assets/59533863/a6da40ad-f55b-4f9f-b451-55f4ff5dddad)
 
